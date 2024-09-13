@@ -9,33 +9,46 @@ links:
 output:
   postcards::solana
 ---
- 
-## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+Amanda Kim is currently in her doctoral training program at Johns Hopkins Bloomberg School of Public Health, under the NIH T32 Psychiatric Epidemiology training grant. Her research interests is focused on understanding the co-occurrence of autism spectrum disorder and eating disorders/disordered eating from the life course perspective. 
+
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**Johns Hopkins University** | Baltimore, MD, U.S.A. 
 
-M.B.A. | August 2014 - June 2015
+  PhD in Public Health | August 2023 - Present
 
-**The Juilliard School** | New York, NY
+**Johns Hopkins University** | Baltimore, MD, U.S.A. 
 
-B.F.A. in Music Performance | August 2005 - May 2009
+MHS in Public Health | August 2021 - May 2022
 
-## Experience
+**Florida Institute of Technology** | Melbourne, FL, U.S.A. 
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+MA in Applied Behavior Analysis | August 2014 - August 2016
 
-**Cercle** | Producer | August 2018 - Present
+**University of California, Merced** | Merced, CA, U.S.A. 
 
-**National Public Radio** | Producer | May 2015 - July 2018
+BA in Psychology | August 2009 - May 2013
 
-**NME Magazine** | Editor | July 2014 - July 2016
+## Certificates/Licenses
 
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**Board Certified Behavior Analyst (BCBA 1-16-24737)** | November 2016 - present
+
+## Experiences
+
+**Clinical Lead Manager** | Center for Autism and Related Disorders, LLC (CARD)
+March 2018 - December 2020
+
+**Clinical Supervisor** | Center for Autism and Related Disorders, LLC (CARD)
+December 2016 - March 2018
+
+**Behavior Therapist** | Center for Autism and Related Disorders, LLC (CARD)
+June 2013 - December 2016
+
+## Research Publications
+
+1. Kim, A.A., Holingue, C. Co-occurring Autism Spectrum Disorder (ASD) and Eating Disorders (ED): Understanding the Heterogeneity of Study Populations. Rev J Autism Dev Disord (2024). https://doi.org/10.1007/s40489-024-00466-x
+
+2. Kim, A., Zisman, C.R., Holingue, C. (2022). Influences of the Immune System and Microbiome on the Etiology of ASD and GI Symptomology of Autistic Individuals. In: Savitz, J., Yolken, R.H. (eds) Microorganisms and Mental Health. Current Topics in Behavioral Neurosciences, vol 61. Springer, Cham. https://doi.org/10.1007/7854_2022_371
+
