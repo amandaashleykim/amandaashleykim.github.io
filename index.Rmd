@@ -6,6 +6,10 @@ links:
     url: "https://www.linkedin.com/in/amandaashleykim/"
   - label: Twitter
     url: "https://x.com/amandaashleykim"
+  - label: GitHub
+    url: "https://github.com/amandaashleykim"
+  - label: Email
+    url: "mailto::amandakim09@gmail.com"
 output:
   postcards::solana
 ---
@@ -17,7 +21,7 @@ Amanda Kim is currently in her doctoral training program at Johns Hopkins Bloomb
 
 **Johns Hopkins University** | Baltimore, MD, U.S.A. 
 
-  PhD in Public Health | August 2023 - Present
+PhD in Public Health | August 2023 - Present
 
 **Johns Hopkins University** | Baltimore, MD, U.S.A. 
 
@@ -46,7 +50,7 @@ December 2016 - March 2018
 **Behavior Therapist** | Center for Autism and Related Disorders, LLC (CARD)
 June 2013 - December 2016
 
-## Research Publications
+##Research Publications
 
 1. Kim, A.A., Holingue, C. Co-occurring Autism Spectrum Disorder (ASD) and Eating Disorders (ED): Understanding the Heterogeneity of Study Populations. Rev J Autism Dev Disord (2024). https://doi.org/10.1007/s40489-024-00466-x
 
