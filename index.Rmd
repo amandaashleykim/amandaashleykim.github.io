@@ -1,15 +1,11 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Amanda A. Kim"
+image: "Profile_Picture.jpg"
 links:
   - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
+    url: "https://www.linkedin.com/in/amandaashleykim/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://x.com/amandaashleykim"
 output:
   postcards::solana
 ---
