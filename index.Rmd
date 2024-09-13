@@ -2,7 +2,7 @@
 title: "Amanda A. Kim"
 image: "Profile_Picture.jpg"
 links:
-  - label: Resume
+  - label: LinkedIn
     url: "https://www.linkedin.com/in/amandaashleykim/"
   - label: Twitter
     url: "https://x.com/amandaashleykim"
@@ -50,9 +50,12 @@ December 2016 - March 2018
 **Behavior Therapist** | Center for Autism and Related Disorders, LLC (CARD)
 June 2013 - December 2016
 
-##Research Publications
+## Research Publications
 
 1. Kim, A.A., Holingue, C. Co-occurring Autism Spectrum Disorder (ASD) and Eating Disorders (ED): Understanding the Heterogeneity of Study Populations. Rev J Autism Dev Disord (2024). https://doi.org/10.1007/s40489-024-00466-x
 
 2. Kim, A., Zisman, C.R., Holingue, C. (2022). Influences of the Immune System and Microbiome on the Etiology of ASD and GI Symptomology of Autistic Individuals. In: Savitz, J., Yolken, R.H. (eds) Microorganisms and Mental Health. Current Topics in Behavioral Neurosciences, vol 61. Springer, Cham. https://doi.org/10.1007/7854_2022_371
 
+## Awards
+1. NIH T32 Training Grant: Psychiatric Epidemiology | August 2023 - Ongoing
+2. AIR-P Scholar: 2024-2025 Cohort 5 | September 2024 - September 2025
